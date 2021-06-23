@@ -1,6 +1,7 @@
 # Getting Started with App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It mainly designed for the registration process which uses react-hook-form and unit testing available in the repository.
 
 ## Available Scripts
 
